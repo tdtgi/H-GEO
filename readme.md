@@ -1,4 +1,4 @@
-The problem texts of the dataset are included in ​​FTtrain.json​​ and ​​FTtest.json​​.
+The problem texts of the dataset are included in ​​FTtrain.json​​ and ​​FTtest.json​​. The complete dataset is available at https://huggingface.co/datasets/TDT000/H-GEO
 # H-GEO
 H-GEO is a dataset of images and Chinese text featuring geometry problems, LLM errors, and their corrections. It supports fine-tuning to reduce hallucinations in geometric reasoning.
 # JSON structure
@@ -19,7 +19,7 @@ H-GEO is a dataset of images and Chinese text featuring geometry problems, LLM e
     ]
   }
 ```
-# containing 
+# Containing 
 - FTtrain.json:3944
 
 - FTtest.json:327
